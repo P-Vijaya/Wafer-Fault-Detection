@@ -1,5 +1,9 @@
 ## Wafer Fault Detection
 
+#### Deployment link:
+
+https://detectfaultwafer.herokuapp.com/
+
 #### Problem Statement:
     
     Wafer (In electronics), also called a slice or substrate, is a thin slice of semiconductor,
